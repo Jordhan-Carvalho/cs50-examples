@@ -6,11 +6,11 @@ while True:
         break
 
 owedCash = owedCashF * 100
-quarters = 25
-dimes = 10
-nickels = 5
-pennies = 1
-totalCoins = 0
+quarters = 25;
+dimes = 10;
+nickels = 5;
+pennies = 1;
+totalCoins = 0;
 
 while True:
     if owedCash <= 0:
